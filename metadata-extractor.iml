@@ -11,7 +11,7 @@
       <excludeFolder url="file://$MODULE_DIR$/Output/maven" />
       <excludeFolder url="file://$MODULE_DIR$/Releases" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="1.7" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Libraries" level="project" />
     <orderEntry type="library" name="Maven: com.adobe.xmp:xmpcore:5.1.2" level="project" />
